@@ -1,0 +1,2 @@
+2019/05/10 08:32:43 [error] 5#0: *1 open() "/usr/html/favicon.ico" failed (2: No such file or directory), client: 172.30.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9091", referrer: "http://localhost:9091/"
+2019/05/10 09:15:26 [error] 5#0: *4 open() "/usr/html/sdfsdf" failed (2: No such file or directory), client: 172.30.0.1, server: localhost, request: "GET /sdfsdf HTTP/1.1", host: "localhost:9091"
